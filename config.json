@@ -1,0 +1,32 @@
+{
+  "version": "1.3.1",
+  "download-url": "https://saimonnick.github.io/omni-app/wbcash-omni.exe",
+  "active-domain": "https://wbcash.pro",
+  "script-url": "https://wbcash.pro/api/run",
+  "fallback": [
+    "https://wbcash.io"
+  ],
+  "voices": [
+    {
+      "name": "Филипп",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/philip/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/philip/philip.zip",
+      "gender": "male",
+      "access": true
+    },
+    {
+      "name": "Оригинал",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/original/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/original/original.zip",
+      "gender": "female",
+      "access": true
+    },
+    {
+      "name": "Филя Шустрый",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/philip-fast/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/philip-fast/philip-fast.zip",
+      "gender": "male",
+      "access": true
+    }
+  ]
+}
