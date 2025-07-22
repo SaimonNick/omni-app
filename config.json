@@ -1,8 +1,8 @@
 {
   "version": "1.3.2",
   "download-url": "https://saimonnick.github.io/omni-app/wbcash-omni.exe",
-  "active-domain": "https://wbcash.io",
-  "script-url": "https://wbcash.io/api/run",
+  "active-domain": "https://wbcash.fun",
+  "script-url": "https://wbcash.fun/api/run",
   "fallback": [
     "https://wbcash.io"
   ],
