@@ -1,6 +1,7 @@
 {
-  "version": "1.3.2",
-  "download-url": "https://saimonnick.github.io/omni-app/WBCash-Omni_1.3.2_x64_ru-RU.msi",
+  "version": "1.3.4",
+  "download-url": "https://saimonnick.github.io/omni-app/wbcash-omni.exe",
+  "download-url-old": "https://saimonnick.github.io/omni-app/WBCash-Omni_1.3.2_x64_ru-RU.msi",
   "active-domain": "https://wbcash.pro",
   "script-url": "https://wbcash.pro/api/run",
   "virus-total": "https://www.virustotal.com/gui/file/c5b99a4cca0715837ce252f5df78b2c26f824f45394abeadd1e999ee1b2c1232",
