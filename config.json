@@ -19,16 +19,16 @@
     },
     {
       "name": "Оригинал",
-      "previewUrl": "https://saimonnick.github.io/omni-app/voices/original/example.mp3",
-      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/original/original.zip",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/emma/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/emma/emma.zip",
       "gender": "female",
       "access": true
     },
     {
-      "name": "Филя Шустрый",
-      "previewUrl": "https://saimonnick.github.io/omni-app/voices/philip-fast/example.mp3",
-      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/philip-fast/philip-fast.zip",
-      "gender": "male",
+      "name": "Оригинал",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/original/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/original/original.zip",
+      "gender": "female",
       "access": true
     }
   ]
