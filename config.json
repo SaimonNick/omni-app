@@ -25,6 +25,13 @@
       "access": true
     },
     {
+      "name": "Оксана (NPOS)",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/oksana/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/oksana/oksana.zip",
+      "gender": "female",
+      "access": true
+    },
+    {
       "name": "Оригинал",
       "previewUrl": "https://saimonnick.github.io/omni-app/voices/original/example.mp3",
       "downloadUrl": "https://saimonnick.github.io/omni-app/voices/original/original.zip",
