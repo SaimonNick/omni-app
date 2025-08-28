@@ -1,5 +1,6 @@
 {
-  "version": "1.3.4",
+  "version": "1.4.0",
+  "min-version": "1.4.0",
   "download-url": "https://saimonnick.github.io/omni-app/WBCash-Omni-Installer.msi",
   "download-url-exe": "https://saimonnick.github.io/omni-app/wbcash-omni.exe",
   "active-domain": "https://wbcash.pro",
@@ -17,6 +18,14 @@
       "gender": "male",
       "access": true
     },
+    {
+      "name": "Юлия",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/julia/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/julia/julia.zip",
+      "gender": "female",
+      "access": true
+    },
+    
     {
       "name": "Винни-Пух",
       "previewUrl": "https://saimonnick.github.io/omni-app/voices/winnie/example.mp3",
