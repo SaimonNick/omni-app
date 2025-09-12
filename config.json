@@ -1,6 +1,6 @@
 {
   "version": "1.6.0",
-  "min-version": "1.4.1",
+  "min-version": "1.6.0",
   "download-url": "https://saimonnick.github.io/omni-app/WBCash-Omni-Installer.msi",
   "download-url-exe": "https://saimonnick.github.io/omni-app/wbcash-omni.exe",
   "active-domain": "https://wbcash.pro",
