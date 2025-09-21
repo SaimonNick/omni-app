@@ -1,0 +1,55 @@
+{
+  "version": "1.7.0",
+  "min-version": "1.7.0",
+  "download-url": "https://saimonnick.github.io/omni-app/WBCash-Omni-Installer.msi",
+  "download-url-exe": "https://saimonnick.github.io/omni-app/wbcash-omni.exe",
+  "active-domain": "https://wbcash.pro",
+  "script-url": "https://wbcash.pro/api/run",
+  "virus-total": "https://www.virustotal.com/gui/file/af9b2002f6b190e75330386421c93cebb51717d0948d458147e024528f0b5b25",
+  "voices": [
+    {
+      "name": "Филипп",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/philip/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/philip/philip.zip",
+      "gender": "male",
+      "access": true
+    },
+    {
+      "name": "Юлия",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/julia/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/julia/julia.zip",
+      "gender": "female",
+      "access": true
+    },
+    
+    {
+      "name": "Винни-Пух",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/winnie/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/winnie/winnie.zip",
+      "gender": "-",
+      "access": true
+    },
+    {
+      "name": "Эмма",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/emma/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/emma/emma.zip",
+      "gender": "female",
+      "access": true
+    },
+    {
+      "name": "Оксана",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/oksana/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/oksana/oksana.zip",
+      "gender": "female",
+      "access": true
+    },
+    {
+      "name": "Оригинал",
+      "previewUrl": "https://saimonnick.github.io/omni-app/voices/original/example.mp3",
+      "downloadUrl": "https://saimonnick.github.io/omni-app/voices/original/original.zip",
+      "gender": "female",
+      "access": true
+    }
+  ]
+}
+
