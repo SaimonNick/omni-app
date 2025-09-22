@@ -1,11 +1,10 @@
 {
-  "version": "1.7.0",
-  "min-version": "1.4.0",
-  "download-url": "https://github.com/SaimonNick/omni-app/releases/download/v1.7.0/WBCash-Omni-Installer.msi",
-  "download-url-exe": "https://github.com/SaimonNick/omni-app/releases/download/v1.7.0/WBCash-Omni-Installer.msi",
+  "version": "1.7.1",
+  "min-version": "1.7.1",
+  "download-url": "https://github.com/SaimonNick/omni-app/releases/download/v1.7.1/WBCash-Omni-Installer.msi",
   "active-domain": "https://wbcash.pro",
   "script-url": "https://wbcash.pro/api/run",
-  "virus-total": "https://www.virustotal.com/gui/file/af9b2002f6b190e75330386421c93cebb51717d0948d458147e024528f0b5b25",
+  "virus-total": "https://www.virustotal.com/gui/file/d84942ec3766edeb26bdec963f2b9b9355bb65c3cad454ea852aa8a611e7fb7e",
   "voices": [
     {
       "name": "Филипп",
