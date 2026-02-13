@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "min-version": "1.9.5",
-  "download-url": "https://github.com/SaimonNick/omni-app/releases/download/2.0.0/WBCash-Omni-Installer.msi",
+  "download-url": "https://github.com/SaimonNick/omni-app/releases/download/v2.0.0/WBCash-Omni-Installer.msi",
   "active-domain": "https://wbcash.pro",
   "script-url": "https://wbcash.pro/api/run",
   "virus-total": "https://www.virustotal.com/gui/file/5fa4bb3bacfced84d59875af3fe8ad8bb69a885d8e84daafd9f3764f048210a0",
